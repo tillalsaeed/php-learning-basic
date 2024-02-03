@@ -1,0 +1,14 @@
+{
+    "name": "tillalsaeed/namespace",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Talal Saeed",
+            "email": "tillalsaeed@gmail.com"
+        }
+    ]
+}
